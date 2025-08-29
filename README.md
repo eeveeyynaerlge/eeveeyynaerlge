@@ -1,16 +1,19 @@
-## Hi there 👋
-
-<!--
-**eeveeyynaerlge/eeveeyynaerlge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<header>
+  <h3 align="center">Welcome to my profile!</h3>
+</header>
+  <hr>
+  </hr>
+  <section>
+    <h4>Proficiencies</h4>
+    <p align="left" dir="auto">
+      <ul>
+        <li> Python </li>
+        <li> giving away my credentials to strangers </li>
+      </ul>
+    </p>
+  </section>
+<footer>
+  <p align="right">
+    <img src="https://count.getloli.com/@eeveeyynaerlge?name=eeveeyynaerlge&theme=capoo-2&padding=7&offset=0&align=center&scale=0.8&pixelated=1&darkmode=auto" style="max-width: 100%; height: auto;">
+  </p>
+</footer>
