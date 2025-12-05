@@ -8,7 +8,7 @@
     <p align="left" dir="auto">
       <ul>
         <li> Python </li>
-        <li> giving away my credentials to strangers </li>
+        <li> being not a nerd(unlike adex) </li>
       </ul>
     </p>
   </section>
