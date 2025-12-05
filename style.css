@@ -8,6 +8,7 @@
 }
 @font-face {
   font-family: 'MyCustomFont'; /* A name you choose to reference the font later */
+  url('fonts/Cattie-Regular.woff') format('woff'),
   src: url('fonts/custom.ttf') format('truetype'); /* The .ttf file for fallback */
   font-weight: normal;
   font-style: normal;
